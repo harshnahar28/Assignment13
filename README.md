@@ -1,3 +1,3 @@
-To start open to terminals
-Terminal 1 run node server.js
-Terminal 2 run npm start
+start two terminals
+On Terminal 1 run node server.js
+While on Terminal 2 run npm start
