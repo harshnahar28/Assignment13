@@ -1,7 +1,7 @@
 const express = require('express')
 const mongoose = require('mongoose')
 const bodyParser = require('body-parser')
-const dbUrl = 'mongodb+srv://hmac:user2021@hmac.uimtv.mongodb.net/hmac?retryWrites=true&w=majority'
+const dbUrl = 'mongodb+srv://harsh:<password>@cluster0.fcwc2pu.mongodb.net/?retryWrites=true&w=majority'
 
 const app = express()
 app.use(express.static(__dirname))
